@@ -1,0 +1,25 @@
+[04-Apr-2012 05:13:29] PHP Fatal error:  Call to undefined method CI_Session::uset_userdata() in /home/appealin/public_html/client_dev_sites/zigair-dev/application/controllers/auth.php on line 106
+[04-Apr-2012 05:27:28] PHP Fatal error:  [] operator not supported for strings in /home/appealin/public_html/client_dev_sites/zigair-dev/application/libraries/Message.php on line 45
+[04-Apr-2012 05:27:39] PHP Fatal error:  [] operator not supported for strings in /home/appealin/public_html/client_dev_sites/zigair-dev/application/libraries/Message.php on line 45
+[04-Apr-2012 05:52:28] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/appealin/public_html/client_dev_sites/zigair-dev/application/libraries/Message.php on line 45
+[04-Apr-2012 05:52:30] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/appealin/public_html/client_dev_sites/zigair-dev/application/libraries/Message.php on line 45
+[04-Apr-2012 05:52:43] PHP Parse error:  syntax error, unexpected '=' in /home/appealin/public_html/client_dev_sites/zigair-dev/application/libraries/Message.php on line 46
+[04-Apr-2012 05:52:44] PHP Parse error:  syntax error, unexpected '=' in /home/appealin/public_html/client_dev_sites/zigair-dev/application/libraries/Message.php on line 46
+[04-Apr-2012 08:15:19] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../application/controllers/auth_base.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/appealin/public_html/client_dev_sites/zigair-dev/application/controllers/auth.php on line 3
+[04-Apr-2012 08:15:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/appealin/public_html/client_dev_sites/zigair-dev/application/controllers/auth_base.php on line 57
+[04-Apr-2012 09:32:42] PHP Fatal error:  Cannot use object of type stdClass as array in /home/appealin/public_html/client_dev_sites/zigair-dev/application/controllers/welcome.php on line 21
+[04-Apr-2012 10:25:49] PHP Fatal error:  Call to a member function item() on a non-object in /home/appealin/public_html/client_dev_sites/zigair-dev/application/libraries/Tank_auth.php on line 33
+[04-Apr-2012 10:27:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/appealin/public_html/client_dev_sites/zigair-dev/application/config/facebook.php on line 7
+[04-Apr-2012 10:41:44] PHP Fatal error:  Call to a member function api() on a non-object in /home/appealin/public_html/client_dev_sites/zigair-dev/application/controllers/auth_base.php on line 72
+[04-Apr-2012 10:41:51] PHP Fatal error:  Call to a member function api() on a non-object in /home/appealin/public_html/client_dev_sites/zigair-dev/application/controllers/auth_base.php on line 72
+[04-Apr-2012 10:43:05] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../application/controllers/auth_base.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/appealin/public_html/client_dev_sites/zigair-dev/application/controllers/auth.php on line 3
+[04-Apr-2012 10:43:14] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../application/controllers/auth_base.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/appealin/public_html/client_dev_sites/zigair-dev/application/controllers/auth.php on line 3
+[05-Apr-2012 20:05:38] PHP Fatal error:  Call to undefined function  site_url() in /home/appealin/public_html/client_dev_sites/zigair-dev/application/views/template.php on line 28
+[05-Apr-2012 20:05:46] PHP Fatal error:  Call to undefined function  site_url() in /home/appealin/public_html/client_dev_sites/zigair-dev/application/views/template.php on line 28
+[05-Apr-2012 20:06:09] PHP Fatal error:  Call to undefined function  site_url() in /home/appealin/public_html/client_dev_sites/zigair-dev/application/views/template.php on line 28
+[05-Apr-2012 20:07:02] PHP Fatal error:  Call to undefined function  site_url() in /home/appealin/public_html/client_dev_sites/zigair-dev/application/views/template.php on line 29
+[05-Apr-2012 20:07:03] PHP Fatal error:  Call to undefined function  site_url() in /home/appealin/public_html/client_dev_sites/zigair-dev/application/views/template.php on line 29
+[08-Apr-2012 09:53:49] PHP Parse error:  syntax error, unexpected T_AS in /home/appealin/public_html/client_dev_sites/zigair-dev/application/libraries/Template.php on line 456
+[08-Apr-2012 11:28:14] PHP Fatal error:  Function name must be a string in /home/appealin/public_html/client_dev_sites/zigair-dev/application/libraries/Template.php on line 484
+[08-Apr-2012 19:22:05] PHP Parse error:  syntax error, unexpected ')' in /home/appealin/public_html/client_dev_sites/zigair-dev/application/libraries/Template.php on line 459
+[08-Apr-2012 19:22:46] PHP Fatal error:  Call to undefined method CI_Template::asset() in /home/appealin/public_html/client_dev_sites/zigair-dev/application/views/public_double_column.php on line 136
